@@ -1,0 +1,6 @@
+com\example\contactform\ContactFormApplication.class
+com\example\contactform\config\MailConfig.class
+com\example\contactform\service\EmailService.class
+com\example\contactform\model\ContactForm$Services.class
+com\example\contactform\controller\ContactController.class
+com\example\contactform\model\ContactForm.class
